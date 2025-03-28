@@ -1,0 +1,149 @@
+{
+  "basketball": {
+    "name": "basketball",
+    "file": "basketball.blend",
+    "scale": 0.03,
+    "group": "small",
+    "default_orientation": null
+  },
+  "bed": {
+    "name": "bed",
+    "file": "bed.blend",
+    "scale": 0.2,
+    "group": "medium",
+    "default_orientation": "front"
+  },
+  "bike": {
+    "name": "bike",
+    "file": "bike.blend",
+    "scale": 0.6,
+    "group": "medium",
+    "default_orientation": "front"
+  },
+  "bird": {
+    "name": "bird",
+    "file": "bird.blend",
+    "scale": 0.02,
+    "group": "small",
+    "default_orientation": "behind"
+  },
+  "bookshelf": {
+    "name": "bookshelf",
+    "file": "bookshelf.blend",
+    "scale": 0.33,
+    "group": "medium",
+    "default_orientation": "right"
+  },
+  "bottle": {
+    "name": "bottle",
+    "file": "bottle.blend",
+    "scale": 0.05,
+    "group": "small",
+    "default_orientation": null
+  },
+  "box": {
+    "name": "box",
+    "file": "box.blend",
+    "scale": 0.1,
+    "group": "small",
+    "default_orientation": null
+  },
+  "camera": {
+    "name": "camera",
+    "file": "camera.blend",
+    "scale": 2,
+    "group": "small",
+    "default_orientation": "left"
+  },
+  "car": {
+    "name": "car",
+    "file": "car.blend",
+    "scale": 0.16,
+    "group": "large",
+    "default_orientation": "left"
+  },
+  "chair": {
+    "name": "chair",
+    "file": "chair.blend",
+    "scale": 0.5,
+    "group": "medium",
+    "default_orientation": "behind"
+  },
+  "couch": {
+    "name": "couch",
+    "file": "couch.blend",
+    "scale": 0.2,
+    "group": "large",
+    "default_orientation": "front"
+  },
+  "dog": {
+    "name": "dog",
+    "file": "dog.blend",
+    "scale": 1,
+    "group": "medium",
+    "default_orientation": "front"
+  },
+  "hut": {
+    "name": "hut",
+    "file": "hut.blend",
+    "scale": 0.4,
+    "group": "large",
+    "default_orientation": "front"
+  },
+  "lamp": {
+    "name": "lamp",
+    "file": "lamp.blend",
+    "scale": 0.06,
+    "group": "small",
+    "default_orientation": "right"
+  },
+  "laptop": {
+    "name": "laptop",
+    "file": "laptop.blend",
+    "scale": 0.18,
+    "group": "small",
+    "default_orientation": "behind"
+  },
+  "person": {
+    "name": "person",
+    "file": "person.blend",
+    "scale": 0.65,
+    "group": "medium",
+    "default_orientation": "left"
+  },
+  "puma": {
+    "name": "puma",
+    "file": "puma.blend",
+    "scale": 0.65,
+    "group": "medium",
+    "default_orientation": "front"
+  },
+  "shoe": {
+    "name": "shoe",
+    "file": "shoe.blend",
+    "scale": 0.05,
+    "group": "small",
+    "default_orientation": "left"
+  },
+  "sign": {
+    "name": "sign",
+    "file": "sign.blend",
+    "scale": 0.05,
+    "group": "medium",
+    "default_orientation": "front"
+  },
+  "tree": {
+    "name": "tree",
+    "file": "tree.blend",
+    "scale": 0.6,
+    "group": "large",
+    "default_orientation": null
+  },
+  "violin": {
+    "name": "violin",
+    "file": "violin.blend",
+    "scale": 1.1,
+    "group": "small",
+    "default_orientation": null
+  }
+}
